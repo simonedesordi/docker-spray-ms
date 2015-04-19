@@ -12,4 +12,5 @@ curl "http://localhost:9090/hello"
 curl "http://localhost:9090/counter/c1"
 curl -XPOST "http://localhost:9090/counter/c1?amount=1234"
 ```
+[![Build Status](https://travis-ci.org/simonedesordi/docker-spray-ms.svg?branch=master)](https://travis-ci.org/simonedesordi/docker-spray-ms)
 
